@@ -6,16 +6,16 @@ var LegendOptions = ['Developer'];
 
 var d = [
 		  [
-        {axis: "Influence", value: 0},
-        {axis: "Quality Focus", value: 0},
-        {axis: "Analytic Ability", value: 0},
-        {axis: "Techniques, practices and tools", value: 0},
-        {axis: "Coaching", value: 0},
-        {axis: "Collaboration", value: 0},
-        {axis: "Communication", value: 0},
-        {axis: "Decision Making & Judgement", value: 0},
-        {axis: "Continuous Learning", value: 0},
-        {axis: "Continuous Improvement", value: 0}
+        {axis: "Influence", value: 4},
+        {axis: "Quality Focus", value: 3},
+        {axis: "Analytic Ability", value: 3},
+        {axis: "Techniques, practices and tools", value: 3},
+        {axis: "Coaching", value: 3},
+        {axis: "Collaboration", value: 3},
+        {axis: "Communication", value: 3},
+        {axis: "Decision Making & Judgement", value: 4},
+        {axis: "Continuous Learning", value: 3},
+        {axis: "Continuous Improvement", value: 3}
       ]
 		];
 
