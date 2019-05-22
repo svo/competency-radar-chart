@@ -6,11 +6,11 @@ var LegendOptions = ['Manager'];
 
 var d = [
 		  [
-        {axis: "Provides Clarity", value: 0},
-        {axis: "Ensures Accountability", value: 0},
-        {axis: "Encourages Growth", value: 0},
-        {axis: "Gives Recognition", value: 0},
-        {axis: "Provides Meaning", value: 0}
+        {axis: "Provides Clarity", value: 3},
+        {axis: "Ensures Accountability", value: 3},
+        {axis: "Encourages Growth", value: 3},
+        {axis: "Gives Recognition", value: 3},
+        {axis: "Provides Meaning", value: 2}
       ]
 		];
 
