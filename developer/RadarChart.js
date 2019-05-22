@@ -99,7 +99,7 @@ var RadarChart = {
       .attr("class", "legend")
       .text(function(d) {return d})
       .style("font-family", "sans-serif")
-      .style("font-size", "11px")
+      .style("font-size", "10px")
       .attr("text-anchor", "middle")
       .attr("dy", "1.5em")
       .attr("transform", function(d, i) {return "translate(0, -10)"})
