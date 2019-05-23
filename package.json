@@ -1,0 +1,15 @@
+{
+  "name": "competency-radar-chart",
+  "version": "1.0.0",
+  "description": "Competency Radar Chart",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/svo/competency-radar-chart",
+  "keywords": [],
+  "author": "svo",
+  "devDependencies": {
+    "electron": "5.0.1"
+  }
+}
